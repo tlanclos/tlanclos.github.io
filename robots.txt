@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://taylorlanclos.com/sitemap.xml
+Host: taylorlanclos.com
